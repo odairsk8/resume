@@ -45,9 +45,7 @@
         $('#intro').backstretch([
             'assets/Content/assets/images/pessoal_capa.jpg',
             'assets/Content/assets/images/bg3.jpg',
-            'https://github.com/odairsk8/resume/blob/master/docs/assets/Content/images/bgsw.png',
-            'assets/Content/assets/images/byron.jpg',
-            
+            'assets/Content/assets/images/byron.jpg'            
         ], { duration: 3000, fade: 750 });
 
 		/* ---------------------------------------------- /*
